@@ -2,6 +2,10 @@
 
 
 # Aula prática de Processamento Digital de Imagens
+
+ - [document.pdf](document.pdf): Roteiro da aula.
+
+
 - [histogram.ipynb](https://nbviewer.jupyter.org/github/rafaelbidese/fvc-practice/blob/master/histogram.ipynb): demonstração de aplicações de Equalização de Histograma
 - [2d-fft.ipynb](https://nbviewer.jupyter.org/github/rafaelbidese/fvc-practice/blob/master/2d-fft.ipynb): demonstração de aplicações de Transofrmada de Fourier em 2D
 - [bacteria-example.ipynb](https://nbviewer.jupyter.org/github/rafaelbidese/fvc-practice/blob/master/bacteria-example.ipynb): demonstração de aplicações para contagem de bactérias em uma imagem de microscópio
